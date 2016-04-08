@@ -28,5 +28,5 @@ After:
 
 <img src="https://raw.githubusercontent.com/NikolasSS/userscripts/master/r-all-links-filtered/linkchange-after.png"></img>
 
-Note: Will not work with Reddit Enhancement Suite extension enabled. I'm working on getting this fixed when I have a chance but go ahead and make a pull request or send me a message if you have an idea.
+Note: Will not work with Reddit Enhancement Suite extension enabled. I'm working on getting this fixed when I have a chance but go ahead and make a pull request or send me a message if you have an idea.  
 For all I know RES already has this as an option.
