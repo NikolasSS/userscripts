@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  All /r/All links point to filtered /r/All
-// @author       /u/SpaceNacho (NikolasSS)
+// @author       NikolasSS
 // @match        https://www.reddit.com/*
 // @grant        none
 // ==/UserScript==
